@@ -1,0 +1,17 @@
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\MinecrarftLauncher.csproj.AssemblyReference.cache
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\MinecrarftLauncher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\MinecrarftLauncher.AssemblyInfoInputs.cache
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\MinecrarftLauncher.AssemblyInfo.cs
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\MinecrarftLauncher.csproj.CoreCompileInputs.cache
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\bin\Debug\net10.0-windows\MinecrarftLauncher.exe
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\bin\Debug\net10.0-windows\MinecrarftLauncher.deps.json
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\bin\Debug\net10.0-windows\MinecrarftLauncher.runtimeconfig.json
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\bin\Debug\net10.0-windows\MinecrarftLauncher.dll
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\bin\Debug\net10.0-windows\MinecrarftLauncher.pdb
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\Minecrar.6364F353.Up2Date
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\MinecrarftLauncher.dll
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\refint\MinecrarftLauncher.dll
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\MinecrarftLauncher.pdb
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\MinecrarftLauncher.genruntimeconfig.cache
+D:\Users\进击的豆苗\source\repos\MinecrarftLauncher\MinecrarftLauncher\obj\Debug\net10.0-windows\ref\MinecrarftLauncher.dll
